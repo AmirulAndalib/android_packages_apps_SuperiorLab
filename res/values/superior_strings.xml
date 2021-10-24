@@ -157,4 +157,10 @@
      <string name="show_fourg_icon_title">4G icon</string>
      <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
 
+     <!-- Quick QS pulldown -->
+     <string name="qs_quick_pulldown">Quick QS pulldown</string>
+     <string name="quick_pulldown_none">Disabled</string>
+     <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
+     <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
+
 </resources>
