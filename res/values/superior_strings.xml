@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-<<<<<<< HEAD
      Copyright (C)2020-2024 The SuperiorOS Project
-=======
-     Copyright (C) 2022-2023 The SuperiorOS Project
->>>>>>> 12c4ec80 (SuperiorLab: Pimp the power menu out [2/2])
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -156,5 +152,9 @@
      <string name="data_disabled_icon_title">Show data disabled icon</string>
      <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data
           is disabled</string>
+
+     <!-- 4G icon -->
+     <string name="show_fourg_icon_title">4G icon</string>
+     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
 
 </resources>
