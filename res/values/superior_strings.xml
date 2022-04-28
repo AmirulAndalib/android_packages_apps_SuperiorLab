@@ -79,6 +79,7 @@
      <!-- Sub category -->
      <string name="general_category">General</string>
      <string name="spoofing_category">Spoof</string>
+     <string name="statusbar_icons">Icons</string>
 
      <!-- AOSP Gestures -->
      <string name="aosp_gesture_preference">System settings</string>
@@ -98,7 +99,6 @@
           to unlock higher FPS</string>
 
      <!-- Statusbar Items -->
-     <string name="sb_icons">Statusbar Icons</string>
      <string name="statusbar_items_category">Statusbar items</string>
 
      <!-- Font style / Icon pack -->
@@ -151,4 +151,10 @@
      <string name="network_traffic_autohide_title">Hide network traffic indicator if inactive</string>
      <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1
           KB/s</string>
+
+     <!-- Data disabled icon -->
+     <string name="data_disabled_icon_title">Show data disabled icon</string>
+     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data
+          is disabled</string>
+
 </resources>
