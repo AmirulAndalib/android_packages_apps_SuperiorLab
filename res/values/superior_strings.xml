@@ -274,7 +274,8 @@
 
      <!-- Ambient Ticker -->
      <string name="pulse_on_new_tracks_title">Music ticker</string>
-     <string name="pulse_on_new_tracks_summary">Show music ticker on Ambient Display during track change</string>
+     <string name="pulse_on_new_tracks_summary">Show music ticker on Ambient Display during track
+          change</string>
 
      <!-- Weather -->
      <string name="weather_category_title">Weather</string>
@@ -287,4 +288,8 @@
      <string name="lockscreen_weather_location_summary">Display current weather location</string>
      <string name="lockscreen_weather_text_title">Current condition</string>
      <string name="lockscreen_weather_text_summary">Display current weather condition summary</string>
+
+     <!-- QS footer data usage -->
+     <string name="qs_show_data_usage_title">Show data usage</string>
+     <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
 </resources>
