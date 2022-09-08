@@ -292,4 +292,10 @@
      <!-- QS footer data usage -->
      <string name="qs_show_data_usage_title">Show data usage</string>
      <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
+
+     <!-- Annoying Notifications -->
+     <string name="notifications_category_title">Annoying notifications protection</string>
+     <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
+     <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for
+          notifications when screen is on</string>
 </resources>
