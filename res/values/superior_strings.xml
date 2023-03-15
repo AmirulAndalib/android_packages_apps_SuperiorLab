@@ -267,4 +267,8 @@
      <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
      <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the
           slider</string>
+
+     <!-- Brightness percentage -->
+     <string name="brightness_textview_title">Brightness Percentage</string>
+     <string name="brightness_textview_summary">show hide brightness percentage text</string>
 </resources>
