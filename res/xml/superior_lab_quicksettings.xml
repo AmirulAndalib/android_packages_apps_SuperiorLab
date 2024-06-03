@@ -96,7 +96,7 @@
                android:max="5"
                settings:min="2"
                settings:interval="1"
-               android:defaultValue="2" />
+               android:defaultValue="4" />
 
           <com.superior.support.preferences.SystemSettingSeekBarPreference
                android:key="qqs_layout_rows"
@@ -112,7 +112,7 @@
                android:max="3"
                settings:min="1"
                settings:interval="1"
-               android:defaultValue="2" />
+               android:defaultValue="1" />
 
      </PreferenceCategory>
 
