@@ -275,7 +275,7 @@
      <!-- Ambient Ticker -->
      <string name="pulse_on_new_tracks_title">Music ticker</string>
      <string name="pulse_on_new_tracks_summary">Show music ticker on Ambient Display during track
-          change</string>
+          change or now playing song detection (if applicable)</string>
 
      <!-- Weather -->
      <string name="weather_category_title">Weather</string>
